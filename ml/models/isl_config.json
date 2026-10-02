@@ -1,0 +1,26 @@
+{
+  "framework": "sklearn",
+  "architecture": "SoftVoting_RF_ET_MLP",
+  "feature_dim": 189,
+  "num_classes": 16,
+  "classes": [
+    "EMERGENCY",
+    "FOOD",
+    "GOODBYE",
+    "HELLO",
+    "HELP",
+    "HOW ARE YOU",
+    "IDLE",
+    "NAME",
+    "NO",
+    "PLEASE",
+    "SORRY",
+    "THANK YOU",
+    "WATER",
+    "WELCOME",
+    "WHERE",
+    "YES"
+  ],
+  "final_test_accuracy": 0.9541666666666667,
+  "final_test_loss": 0.05
+}
