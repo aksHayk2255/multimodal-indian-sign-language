@@ -1,5 +1,7 @@
 # AI-Powered Multimodal Indian Sign Language (ISL) Communication Assistant
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-multimodal--indian--sign--language-181717?logo=github)](https://github.com/aksHayk2255/multimodal-indian-sign-language)
+
 A web-based, bi-directional accessibility and communication platform bridging **Indian Sign Language (ISL) users** and **hearing individuals** who do not understand sign language.
 
 Built with **MediaPipe**, **Temporal Deep Learning**, **Automatic Speech Recognition (ASR)**, **Text-to-Speech (TTS)**, **Multilingual Translation**, **Django REST Framework**, and **React + Vite**.
